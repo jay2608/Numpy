@@ -1,3 +1,3 @@
 # Numpy
-Contain Numpy Commands
+Contain Numpy Commands.
 Python for processing data from multiple files.
